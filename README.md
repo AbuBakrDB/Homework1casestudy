@@ -48,7 +48,7 @@ Read more on DailyCoin: https://dailycoin.com/ripple-net-treasury-payments-guide
 
 * **Business Impact**: Ripple Labs has made a substantial impact by providing a faster and more cost-effective alternative for cross-border payments. Its solutions have garnered attention and partnerships within the financial industry. Ripple Lab has also made a lot of noise in the newly regulated US Cryto space with the *SEC v. Ripple Case*. The results of this case has significant implications for both parties and the broader cyptocurrency industry.
 
-![Ripplelab](Ripplelab.png)
+![Ripplelab][def]
 
 * **Core Metrics**: Key metrics for success in this domain include transaction speed, cost per transaction, and the number of active partnerships. Ripple Labs has shown positive results in improving these metrics.
 
@@ -75,3 +75,5 @@ Read more on DailyCoin: https://dailycoin.com/ripple-net-treasury-payments-guide
 2. *SecVsRipplePressRelease*](https://www.sec.gov/news/press-release/2020-338)
 3. *Swift*](https://www.swift.com/)
 ---
+
+[def]: Ripplelab.png
