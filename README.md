@@ -74,4 +74,4 @@ Read more on DailyCoin: https://dailycoin.com/ripple-net-treasury-payments-guide
 1. *RippleLab*](https://ripple.com/)
 2. *SecVsRipplePressRelease*](https://www.sec.gov/news/press-release/2020-338)
 3. *Swift*](https://www.swift.com/)
-   
+---
