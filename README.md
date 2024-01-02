@@ -1,5 +1,7 @@
 # Ripple Labs Analysis
-![ripple](Ripple.png)
+
+![ripple][def2]
+
 ## Overview and Origin
 
 * Name of the Company: Ripple Labs
@@ -52,3 +54,4 @@
 
 
 [def]: code
+[def2]: Ripple.png
